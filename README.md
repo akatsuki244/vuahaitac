@@ -36,7 +36,7 @@ Xong rồi và ra tận hưởng thành quả.
 Phần 2: Hướng dẫn cài đặt và chạy Server
 Link Server: https://drive.google.com/file/d/1LG2CATIDP2vjXNbtbkhu92VThlgwFNJ0/view
 
-(Trong Server đã có sẵn Client rồi, Bác nào chỉ muốn lấy Client đã việt hóa thì vào Link này tải để khỏi phải tải file nặng kia về: https://drive.google.com/file/d/1vGw...ew?usp=sharing)
+(Trong Server đã có sẵn Client rồi, Bác nào chỉ muốn lấy Client đã việt hóa thì vào Link này tải để khỏi phải tải file nặng kia về: https://drive.google.com/file/d/1LG2CATIDP2vjXNbtbkhu92VThlgwFNJ0/view )
 
 Server có IP là 192.168.127.142
 
